@@ -1,6 +1,13 @@
+# Link
+
+https://amazon-clone-less-spend-smile-more.netlify.app/
+
 # Amazon_Clone
 
-Amazon Clone is a web application created using HTML, CSS, and JavaScript. It is influenced by the design and functionality of Amazon's e-commerce platform. This clone replicates the original site's basic features. The HTML structure forms the backbone of the application, defining the layout and organizing the content. CSS is utilized to style the elements, providing a visually appealing interface that closely resembles Amazon's design. JavaScript is sparingly used to add interactive elements, such as dropdown menus, image sliders, or simple product filtering.
+🛍️ Welcome to My Amazon Clone Project! 🚀
+
+In this repository, you'll find my rendition of an Amazon clone created using HTML, CSS, and JavaScript. In this project, I got to explore front-end web development and replicate Amazon's core functions and design elements. From structuring the layout with HTML to adding interactive features with JavaScript 💻🌟
+
 
 # Tecnologies
 * HTML5
